@@ -1,6 +1,9 @@
 int ThermistorPin1 = 0;
 int ThermistorPin2 = 1;
 
+// int ThermistorPin1 = 0;
+// int ThermistorPin2 = 1;
+
 int HEATER_PIN = 1;
 
 struct Temperature {
